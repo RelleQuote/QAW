@@ -1456,8 +1456,8 @@ i.icon-white {
 .btn-success {
   color: #ffffff;
   text-shadow: none;
-  background-color: #1bac91;
-  *background-color: #1bac91;
+  background-color: #800000;
+  *background-color: #800000;
   background-image: none;
   border-color: none;
   filter:none;
@@ -1470,8 +1470,8 @@ i.icon-white {
 .btn-success.disabled,
 .btn-success[disabled] {
   color: #ffffff;
-  background: #800000;
-  *background: #800000;
+  background: #55ba93;
+  *background: #55ba93;
 }
 
 .btn-success:active,
