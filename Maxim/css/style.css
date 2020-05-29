@@ -1377,8 +1377,8 @@ i.icon-white {
 .btn-primary {
   color: #ffffff;
   text-shadow: none;
-  background-color: #990000;
-  *background-color: #990000;
+  background-color: #09828c;
+  *background-color: #09828c;
   background-image: none;
   border-color: none;
   filter:none;
@@ -1391,13 +1391,13 @@ i.icon-white {
 .btn-primary.disabled,
 .btn-primary[disabled] {
   color: #ffffff;
-  background: #800000;
-  *background-color: #800000;
+  background: #065158;
+  *background-color: #065158;
 }
 
 .btn-primary:active,
 .btn-primary.active {
-  background-color: #800000 \9;
+  background-color: #065158 \9;
 }
 
 .btn-warning {
@@ -1470,8 +1470,8 @@ i.icon-white {
 .btn-success.disabled,
 .btn-success[disabled] {
   color: #ffffff;
-  background: #55ba93;
-  *background: #55ba93;
+  background: #800000;
+  *background: #800000;
 }
 
 .btn-success:active,
